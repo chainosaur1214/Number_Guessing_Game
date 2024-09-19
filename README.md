@@ -20,3 +20,5 @@ Welcome to the Number Guessing Game! This is a CLI-based game where the user has
 * **Easy**: 10 attempts to guess the correct number.
 * **Medium**: 5 attempts to guess the correct number.
 * **Hard**: 3 attempts to guess the correct number.
+
+https://roadmap.sh/projects/number-guessing-game
